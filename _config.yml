@@ -1,0 +1,14 @@
+layout_spectrum: 0.035464860731735826
+typography_spectrum: 0.3772165353875607
+color:
+  brandStrength: 0.15157951531000435
+  lightness: 0.8306739483959973
+  saturation: 0.07981367246247828
+  rhythmicContrast: 0.08504207688383758
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Revel iPad POS
